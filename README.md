@@ -1,4 +1,4 @@
-# Updated-Assignment_Rimit-Payment
+# CRUD_Nodejs_express_mongodb
 CRUD operations using Node Js, Express,  mongoDB  via POSTMAN
 
 •	At terminal install the following:
